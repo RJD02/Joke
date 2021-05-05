@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+
+p {
+    display: none;
+}
+
+.warning {
+    display: block;
+    color: rebeccapurple;
+    /* background-color: red; */
+}
